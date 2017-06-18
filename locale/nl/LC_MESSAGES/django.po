@@ -379,7 +379,7 @@ msgstr "Alle patches"
 #: matches/templates/tournaments/tournament_list.html:13 meta/forms.py:37
 #: teams/forms.py:76 teams/forms.py:144 templates/base.html:208
 msgid "Tournaments"
-msgstr "Tournamenten"
+msgstr "Toernooien"
 
 #: heroes/forms.py:30 meta/forms.py:42 teams/forms.py:81 teams/forms.py:149
 msgid "All tournaments"
